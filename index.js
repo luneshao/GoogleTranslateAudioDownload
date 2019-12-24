@@ -103,7 +103,7 @@
       const sourceVal = document.getElementById('source').value
       const url = `https://translate.google.cn/translate_tts?ie=UTF-8&q=${sourceVal}&tl=zh-CN&total=1&idx=0&textlen=1&tk=${vq(
           sourceVal
-      )}&client=webapp&prev=input&ttsspeed=0.24`
+      )}&client=webapp&prev=input`
 
       a.href = url
       a.download = `${
