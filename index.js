@@ -135,5 +135,4 @@
   }
   const observer = new MutationObserver(callback)
   observer.observe(jfkButton, config)
-
 })();
