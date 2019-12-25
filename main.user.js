@@ -6,7 +6,7 @@
 // @author       You
 // @homepage     https://github.com/luneshao/GoogleTranslateAudioDownload
 // @homepageURL  https://github.com/luneshao/GoogleTranslateAudioDownload
-// @updateURL    https://github.com/luneshao/GoogleTranslateAudioDownload/blob/master/index.js
+// @updateURL    https://github.com/luneshao/GoogleTranslateAudioDownload/blob/master/main.user.js
 // @match        https://translate.google.cn/*
 // @grant        GM_addStyle
 // @grant        GM_download
