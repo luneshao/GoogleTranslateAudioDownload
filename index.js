@@ -4,6 +4,9 @@
 // @version      1.0.2
 // @description  在谷歌翻译输入需要读取的文字后，点击下载音频，可以得到一个文字命名的 mp3 文件。
 // @author       You
+// @homepage     https://github.com/luneshao/GoogleTranslateAudioDownload
+// @homepageURL  https://github.com/luneshao/GoogleTranslateAudioDownload
+// @updateURL    https://github.com/luneshao/GoogleTranslateAudioDownload/blob/master/index.js
 // @match        https://translate.google.cn/*
 // @grant        GM_addStyle
 // @grant        GM_download
