@@ -13,3 +13,7 @@
 
 ## 效果图
 ![下载音频截图](./img/download.png)
+
+------
+
+参考：[谷歌翻译 TKK值，tk值算法，api接口公布](https://www.52pojie.cn/thread-707169-1-1.html)、[油猴中文文档](https://my.oschina.net/u/2268567/blog/828528)
