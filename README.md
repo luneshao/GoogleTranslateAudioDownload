@@ -10,6 +10,11 @@
 
 参考：[谷歌翻译 TKK值，tk值算法，api接口公布](https://www.52pojie.cn/thread-707169-1-1.html)、[油猴中文文档](https://my.oschina.net/u/2268567/blog/828528)
 
+## 【2021-03-25更新】
+- 目前谷歌翻译网页已更新，获取不到音频文件。此脚本失效，故在 [Greasy Fork](https://greasyfork.org/zh-CN/scripts/394133-下载谷歌翻译音频) 删除。
+- 截止目前脚本下载量
+![脚本安装数据](./img/install.png)
+
 ## 功能
 下载谷歌翻译中文音频文件。
 
