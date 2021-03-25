@@ -13,7 +13,7 @@
 ## 【2021-03-25更新】
 - 目前谷歌翻译网页已更新，获取不到音频文件。此脚本失效，故在 [Greasy Fork](https://greasyfork.org/zh-CN/scripts/394133-下载谷歌翻译音频) 删除。
 - 截止目前脚本下载量
-![脚本安装数据](./img/install.png)
+![脚本安装数据](./img/install.jpg)
 
 ## 功能
 下载谷歌翻译中文音频文件。
